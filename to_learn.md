@@ -11,3 +11,4 @@ Things we are learning at SWC
 ** add files to git repos
 ** commit messages
 ** atomic commits
+* sub-atomic com mits
