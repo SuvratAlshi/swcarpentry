@@ -6,12 +6,11 @@ I"M FUCKIN SHIT UP AND BREAKIN THIS FILE.
 
 
 * shell
-** ls
+dfkjklj** ls
 ** cat
 ** pipe
 
-* git
-** Initialize git repos.
-** Add files to git repos.
-** Commit messages.
+kLlkj** Commit messages.
 ** Atomic commits.
+dskjfhlskdjhf
+
