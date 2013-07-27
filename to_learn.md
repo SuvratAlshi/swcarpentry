@@ -1,14 +1,18 @@
-Things we are learning at SWC
-=============================
-
 * shell
 ** ls
-** cat
-** pipe
+*** cat
+**** pipe
 
-* git
-** Initialize git repos.
-** add files to git repos
-** commit messages
-** atomic commits
-* sub-atomic com mits
+*git
+**repos
+***commit messages
+****changes
+* what>?? :o
+
+
+*some new branch here...i
+
+**atomic changes
+*sub atomic
+
+*sal: if you grep in the dark then you are at dev/null
