@@ -1,0 +1,2 @@
+Does anyone know how to clone a repository from another server?  Rather than from github?
+
